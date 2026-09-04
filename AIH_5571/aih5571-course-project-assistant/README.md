@@ -7,9 +7,7 @@
 ### 课程信息
 - **课程代码**: AIH5571
 - **课程名称**: Introduction to Generative AI and Its Applications (生成式人工智能及其应用导论)
-- **学分**: 3 学分 / Level 5
-- **讲师**: Edward Szeto
-- **上课时间**: 周五 15:30–18:20
+
 ## 🎯 主要功能
 
 ### 1. 课程学习支持
